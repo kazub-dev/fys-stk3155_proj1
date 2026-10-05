@@ -751,12 +751,6 @@ disclosure required by the course guidelines.
 | `scripts/run_notebook.py` |         4 | GitHub Copilot generated this script to run the notebook in a fresh kernel and export all figures. |
  | `scripts/build_report_pdf.py` |         4 | GitHub Copilot generated this script to build the report PDF from the Markdown file.         |
 
-The notebook contains a Markdown disclosure immediately before the
-gradient-descent implementation. The table above describes ChatGPT's original
-debugging assistance only. GitHub Copilot subsequently edited the notebook
-and generated the nested-CV routine and `scripts/run_notebook.py`, as described
-above; this later contribution includes code generation, not just debugging.
-
 ## References
 
 1. FYS-STK3155/FYS4155 course lecture notes, especially Chapters 2--4:
