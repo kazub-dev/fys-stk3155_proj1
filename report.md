@@ -749,7 +749,7 @@ disclosure required by the course guidelines.
 |---|----------:|----------------------------------------------------------------------------------------------------|
 | `project1_runge.ipynb` |         2 | Github Copilot used as a debugging and reviewing tool.                                             |
 | `scripts/run_notebook.py` |         4 | GitHub Copilot generated this script to run the notebook in a fresh kernel and export all figures. |
- | `scripts/build_report_pdf.py` |         4 | GitHub Copilot generated this script to build the report PDF from the Markdown file.     <br/>          |
+ | `scripts/build_report_pdf.py` |         4 | GitHub Copilot generated this script to build the report PDF from the Markdown file.         |
 
 The notebook contains a Markdown disclosure immediately before the
 gradient-descent implementation. The table above describes ChatGPT's original
